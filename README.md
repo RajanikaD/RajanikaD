@@ -1,4 +1,12 @@
-### Hi there 👋
+- 👋 Hi, I’m @RajanikaD
+- 👀 I’m interested in Deep Learning, and its applications in various sectors.
+- 💞️ I’m looking to collaborate on any Datathons, or Machine Learning Projects
+- 📫 How to reach me :- [Linkedin](https://www.linkedin.com/in/rajanika-debnath), Gmail:- rajanikadebnath30@gmail.com
+
+<!---
+RajanikaD/RajanikaDebnath-2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
 <!--
 **RajanikaD/RajanikaD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
